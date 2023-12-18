@@ -1,6 +1,7 @@
 # FlexRate
 
-<img width="1396" alt="스크린샷 2023-12-04 오전 12 03 04" src="https://github.com/jjgj096/flexrate/assets/81611401/f519f957-67ba-46df-8157-806425eef4ea">
+<img width="1078" alt="image" src="https://github.com/FlexRate/.github/assets/81611401/cb5fd3ce-10e9-4472-8b59-c165a272d164">
+
 
 ## 서비스 소개
 
